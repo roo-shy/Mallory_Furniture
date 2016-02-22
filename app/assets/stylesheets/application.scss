@@ -1,0 +1,17 @@
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+@import 'welcome';
+@import 'product';
+
+header{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding:20px;
+  background: #2E3E4F;
+h1 {
+    color: #FFFFFF;
+    text-align:center;
+    display: inline-block;
+  }
+}
